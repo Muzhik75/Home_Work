@@ -1,0 +1,15 @@
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\bin\Debug\net6.0\HW_003_04_1.exe
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\bin\Debug\net6.0\HW_003_04_1.deps.json
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\bin\Debug\net6.0\HW_003_04_1.runtimeconfig.json
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\bin\Debug\net6.0\HW_003_04_1.dll
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\bin\Debug\net6.0\HW_003_04_1.pdb
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\HW_003_04_1.csproj.AssemblyReference.cache
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\HW_003_04_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\HW_003_04_1.AssemblyInfoInputs.cache
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\HW_003_04_1.AssemblyInfo.cs
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\HW_003_04_1.csproj.CoreCompileInputs.cache
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\HW_003_04_1.dll
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\refint\HW_003_04_1.dll
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\HW_003_04_1.pdb
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\HW_003_04_1.genruntimeconfig.cache
+C:\C#\RiderProjects\HW_003_04_1\HW_003_04_1\obj\Debug\net6.0\ref\HW_003_04_1.dll
