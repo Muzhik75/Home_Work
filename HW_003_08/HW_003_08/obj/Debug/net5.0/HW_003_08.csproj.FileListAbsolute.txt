@@ -1,0 +1,16 @@
+C:\C#\RiderProjects\HW_003_08\HW_003_08\bin\Debug\net5.0\HW_003_08.exe
+C:\C#\RiderProjects\HW_003_08\HW_003_08\bin\Debug\net5.0\HW_003_08.deps.json
+C:\C#\RiderProjects\HW_003_08\HW_003_08\bin\Debug\net5.0\HW_003_08.runtimeconfig.json
+C:\C#\RiderProjects\HW_003_08\HW_003_08\bin\Debug\net5.0\HW_003_08.runtimeconfig.dev.json
+C:\C#\RiderProjects\HW_003_08\HW_003_08\bin\Debug\net5.0\HW_003_08.dll
+C:\C#\RiderProjects\HW_003_08\HW_003_08\bin\Debug\net5.0\ref\HW_003_08.dll
+C:\C#\RiderProjects\HW_003_08\HW_003_08\bin\Debug\net5.0\HW_003_08.pdb
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\HW_003_08.csproj.AssemblyReference.cache
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\HW_003_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\HW_003_08.AssemblyInfoInputs.cache
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\HW_003_08.AssemblyInfo.cs
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\HW_003_08.csproj.CoreCompileInputs.cache
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\HW_003_08.dll
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\ref\HW_003_08.dll
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\HW_003_08.pdb
+C:\C#\RiderProjects\HW_003_08\HW_003_08\obj\Debug\net5.0\HW_003_08.genruntimeconfig.cache
